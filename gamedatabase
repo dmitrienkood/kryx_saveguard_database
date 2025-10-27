@@ -1,0 +1,50 @@
+{
+  "Baldur's Gate 3": {
+    "sources": {
+      "Steam": {
+        "type": "dynamic",
+        "path": "%LOCALAPPDATA%\\Larian Studios\\Baldur's Gate 3\\PlayerProfiles\\Public\\Savegames\\Story"
+      },
+      "GOG": {
+        "type": "dynamic",
+        "path": "%LOCALAPPDATA%\\Larian Studios\\Baldur's Gate 3\\PlayerProfiles\\Public\\Savegames\\Story"
+      }
+    }
+  },
+  "Cyberpunk 2077": {
+    "sources": {
+      "Steam": {
+        "type": "dynamic",
+        "path": "%USERPROFILE%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077"
+      },
+      "GOG": {
+        "type": "dynamic",
+        "path": "%USERPROFILE%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077"
+      },
+      "EGS": {
+        "type": "dynamic",
+        "path": "%USERPROFILE%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077"
+      }
+    }
+  },
+  "The Witcher 3: Wild Hunt": {
+    "sources": {
+      "Default": {
+        "type": "static",
+        "path": "%USERPROFILE%\\Documents\\The Witcher 3\\gamesaves"
+      }
+    }
+  },
+  "Hades": {
+    "sources": {
+      "Steam": {
+        "type": "dynamic",
+        "path": "%USERPROFILE%\\Documents\\Saved Games\\Hades"
+      },
+      "EGS": {
+        "type": "dynamic",
+        "path": "%USERPROFILE%\\Documents\\Saved Games\\Hades"
+      }
+    }
+  }
+}
