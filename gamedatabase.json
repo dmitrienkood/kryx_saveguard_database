@@ -60,7 +60,7 @@
       "Steam": {
         "type": "steam_special",
         "app_id": "1971870",
-        "relative_path": "remote"
+        "relative_path": ""
       }
     }
   }
