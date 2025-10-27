@@ -46,5 +46,13 @@
         "path": "%USERPROFILE%\\Documents\\Saved Games\\Hades"
       }
     }
+  },
+  "MiSide": {
+    "sources": {
+      "Default": {
+        "type": "static",
+        "path": "%USERPROFILE%\\AppData\\LocalLow\\AIHASTO\\MiSideFull\\Save"
+      }
+    }
   }
 }
