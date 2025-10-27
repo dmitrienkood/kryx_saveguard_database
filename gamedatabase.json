@@ -54,5 +54,13 @@
         "path": "%USERPROFILE%\\AppData\\LocalLow\\AIHASTO\\MiSideFull\\Save"
       }
     }
-  }
+  },
+  "Mortal Kombat 1": {
+    "sources": {
+      "Steam": {
+        "type": "steam_special",
+        "app_id": "1971870",
+        "relative_path": "remote"
+      }
+    }
 }
